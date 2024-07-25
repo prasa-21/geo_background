@@ -2,7 +2,7 @@ name: geo_background
 description: "This Flutter package provides a simple and effective solution for tracking background location with foreground notifications."
 version: 0.0.2
 homepage: https://github.com/prasa-21
-repository: https://github.com/prasa-21/Background-location-tracking.git
+repository: https://github.com/prasa-21/geo_background.git
 environment:
   sdk: '>=3.4.3 <4.0.0'
   flutter: ">=1.17.0"
